@@ -38,13 +38,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=StaliParra5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="195" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StaliParra5&theme=tokyonight&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StaliParra5&theme=tokyonight" alt="GitHub Summary" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaliParra5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StaliParra5&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StaliParra5&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
