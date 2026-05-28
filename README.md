@@ -62,10 +62,11 @@ Siempre estoy interesado en hablar sobre:
 - 🎮 Game design, RPGs o juegos de estrategia
 - 🐱 Y compartir memes de gatos
 
-📫 Contáctame:<br>
+📫 Contáctame:[parrastali@gmail.com](mailto:parrastali@gmail.com)
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stali-parra-25157231a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/"><img src="https://img.shields.io/badge/X%20(OAuth%202.0)-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/stan_aguila"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div> [parrastali@gmail.com](mailto:parrastali@gmail.com)
+</div> 
