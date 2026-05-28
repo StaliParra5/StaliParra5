@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Aquí puedes poner el link a una imagen tuya tipo banner que hagas en Canva. Por ahora te dejo un placeholder de código oscuro -->
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Banner" style="border-radius: 10px;" />
+
 </div>
 
 <br>
