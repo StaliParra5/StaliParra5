@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%E2%80%A2+Stali+Parra+%7C+Full-Stack+Dev+%E2%80%A2;%3E_Building+architectures+%26+AI+workflows;%3E_Crafting+NexusHR+%26+Qhalikai;%3E_Always+learning.+Always+coding.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%E2%80%A2+Stali+Parra+%7C+Full-Stack+Dev+%E2%80%A2;%3E_Building+architectures+%26+AI+workflows;%3E_Always+learning.+Always+coding.)
 
 *Desarrollador Full-Stack enfocado en el ecosistema **React/Next.js**, arquitecturas sólidas y flujos de orquestación con **Inteligencia Artificial**.*
 
